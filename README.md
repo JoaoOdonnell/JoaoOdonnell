@@ -6,11 +6,11 @@
 
 ### 📧 Contato
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-o-donnell-211a4b237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-o-donnell-211a4b237/" >
+    <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-<a href="https://www.instagram.com/joao.odonnell/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
+<a target="_blank" href="https://www.instagram.com/joao.odonnell/" >
+    <img target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 <a href="mailto:talaiajoao211@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
