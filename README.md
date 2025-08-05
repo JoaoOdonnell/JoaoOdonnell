@@ -1,8 +1,8 @@
 ### Olá! eu sou o João O'Donnell 👋
 -----------------
-- Desenvolvedor Front-End 
+- Desenvolvedor Python
 - Estudante de Ciência da Computação
-- Em busca do Desenvolvimento Full Stack
+- Em constante aprendizado
 
 ### 📧 Contato
 
