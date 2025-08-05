@@ -6,7 +6,7 @@
 
 ### 📧 Contato
 
-<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-o-donnell-211a4b237/" >
+<a target="_blank" href="https://www.linkedin.com/in/jo%C3%A3o-talaia-o-donnell-neto-211a4b237/" >
     <img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
 <a target="_blank" href="https://www.instagram.com/joao.odonnell/" >
